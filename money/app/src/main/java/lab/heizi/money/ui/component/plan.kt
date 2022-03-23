@@ -51,7 +51,6 @@ fun Plans (
         plant(id = Plans.ultraYear, title = "包年", subtitle = "获得一整年的镜子使用权。", price = "99.9元", labelOfPricing = "原价120 立省24.9", isHot = false)
         plant(id = Plans.ultraQ, title = "包季", subtitle = "获得三个月的镜子使用权。", price = "24.9", labelOfPricing = "原价30 立省5元", isHot = false)
         plant(id = Plans.ultraOff, title = "买断", subtitle = "镜子完全使用权和流浪汉资助勋章。", price = "250", isHot = false)
-
     }
 }
 
